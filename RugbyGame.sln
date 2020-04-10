@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RugbyGame", "Assembly-CSharp.csproj", "{8A739F75-8A7D-30CD-4D2C-7C686FDAD64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RugbyGame", "Assembly-CSharp-firstpass.csproj", "{441E1CB0-E3F2-9B68-48D6-02F08687ABBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RugbyGame", "Assembly-CSharp-Editor-firstpass.csproj", "{A19F805D-CAE7-A384-7779-DBB464E5684A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A739F75-8A7D-30CD-4D2C-7C686FDAD64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A739F75-8A7D-30CD-4D2C-7C686FDAD64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A739F75-8A7D-30CD-4D2C-7C686FDAD64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A739F75-8A7D-30CD-4D2C-7C686FDAD64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441E1CB0-E3F2-9B68-48D6-02F08687ABBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441E1CB0-E3F2-9B68-48D6-02F08687ABBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441E1CB0-E3F2-9B68-48D6-02F08687ABBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441E1CB0-E3F2-9B68-48D6-02F08687ABBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19F805D-CAE7-A384-7779-DBB464E5684A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19F805D-CAE7-A384-7779-DBB464E5684A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19F805D-CAE7-A384-7779-DBB464E5684A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19F805D-CAE7-A384-7779-DBB464E5684A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
